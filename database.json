@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "firstName": "first name",
+      "lastName": "last Name",
+      "email": "email@gmail.com",
+      "phoneNumber": "+380985033774",
+      "password": "123",
+      "id": "ef795b55-0aac-48bd-bc52-114dec6e23ce",
+      "createdAt": "2022-06-14T20:26:44.409Z"
+    }
+  ],
+  "fighters": [
+    {
+      "name": "name123",
+      "health": "100",
+      "power": "100",
+      "defense": "2",
+      "id": "7abaf8e0-06a3-4662-b37d-f4bc2392c29d",
+      "createdAt": "2022-06-14T20:41:44.029Z"
+    }
+  ],
+  "fights": []
+}
